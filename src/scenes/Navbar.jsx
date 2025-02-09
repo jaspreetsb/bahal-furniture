@@ -29,7 +29,7 @@ return (
       {/* Logo and Title */}
       <div className="flex items-center gap-3">
         <img src={logo} alt="Bahal Furniture Logo" style={{ height: "54px" }} />
-        <h4 className="font-playfair text-3xl font-bold">Bahal Furniture</h4>
+        <h4 className="font-playfair text-3xl font-bold">Bahal Furniture!</h4>
       </div>
 
       {/* DESKTOP NAV */}
